@@ -1,0 +1,18 @@
+.container{
+    margin-top: 100px;
+    background-color: rgb(255, 176, 0);
+    color: rgb(255, 207, 157);
+    font: 100;
+    font-family: serif;
+    text-transform: capitalize;
+}
+body{
+    background-color: rgb(0, 66, 37);
+}
+img{
+    height: 400px;
+    width: 500px;
+    filter: brightness(100%) contrast(100%) drop-shadow(100px);
+}
+
+@media (min-width:500px)
